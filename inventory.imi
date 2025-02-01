@@ -1,0 +1,9 @@
+hostfile (identity)
+
+
+
+[ms1]
+ms1 ansible_host=13.233.100.121 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/mujahed.pem
+
+[ms2]
+ms2 ansible_host=3.108.234.218 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/mujahed.pem
