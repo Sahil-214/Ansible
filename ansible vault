@@ -1,0 +1,7 @@
+
+ansible-vault create aws_credentials.yml
+aws_access_key_id: 
+aws_secret_access_key: 
+
+#after save run this command
+ansible-playbook your_playbook.yml --ask-vault-pass
