@@ -1,8 +1,8 @@
 [ws]
-cs ansible_host=13.233.100.121 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/Sahil.pem
+cs ansible_host=65.0.75.39 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/Sahil.pem
 
 [ws1]
-ms1 ansible_host=13.233.100.121 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/Sahil.pem
+ms1 ansible_host=43.205.216.4 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/Sahil.pem
 
 [ws2]
-ms2 ansible_host=3.108.234.218 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/Sahil.pem
+ms2 ansible_host=13.232.20.215 ansible_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/.ssh/Sahil.pem
